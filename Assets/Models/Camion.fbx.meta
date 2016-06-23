@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: d5eab8f53c5e749dbb3dcca8d67ba5a5
+timeCreated: 1448734315
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cabina_anteriore
+    100002: //RootNode
+    100004: Carrozzeria
+    100006: Corpo_freccia
+    100008: Corpo_freccia 1
+    100010: Fari_anteriori
+    100012: Fari_posteriori
+    100014: Faro
+    100016: Faro 1
+    100018: Faro_dx_post
+    100020: Faro_sx_post
+    100022: Frecce_anteriori
+    100024: Freccia
+    100026: Freccia 1
+    100028: Freccia 2
+    100030: Freccia_dx
+    100032: Freccia_dx 1
+    100034: Freccia_sx
+    100036: Parafango_anteriore
+    100038: Parafango_posteriore
+    100040: Parte_anteriore
+    100042: Parte_posteriore
+    100044: Radiatore
+    100046: Retro_radiatore
+    100048: Rimorchio
+    100050: Ruota_anteriore_dx
+    100052: Ruota_anteriore_sx
+    100054: Ruota_post_dx
+    100056: Ruota_post_sx
+    100058: Ruote_anteriori
+    100060: Ruote_posteriori
+    100062: Specchietti
+    100064: Specchietto_dx
+    100066: Specchietto_sx
+    100068: Stop
+    100070: Stop 1
+    100072: Targa_anteriore
+    100074: Targa_posteriore
+    100076: Tergi_cristalli
+    100078: Tergicristallo_dx
+    100080: Tergicristallo_sx
+    100082: Vetri_anteriori
+    400000: Cabina_anteriore
+    400002: //RootNode
+    400004: Carrozzeria
+    400006: Corpo_freccia
+    400008: Corpo_freccia 1
+    400010: Fari_anteriori
+    400012: Fari_posteriori
+    400014: Faro
+    400016: Faro 1
+    400018: Faro_dx_post
+    400020: Faro_sx_post
+    400022: Frecce_anteriori
+    400024: Freccia
+    400026: Freccia 1
+    400028: Freccia 2
+    400030: Freccia_dx
+    400032: Freccia_dx 1
+    400034: Freccia_sx
+    400036: Parafango_anteriore
+    400038: Parafango_posteriore
+    400040: Parte_anteriore
+    400042: Parte_posteriore
+    400044: Radiatore
+    400046: Retro_radiatore
+    400048: Rimorchio
+    400050: Ruota_anteriore_dx
+    400052: Ruota_anteriore_sx
+    400054: Ruota_post_dx
+    400056: Ruota_post_sx
+    400058: Ruote_anteriori
+    400060: Ruote_posteriori
+    400062: Specchietti
+    400064: Specchietto_dx
+    400066: Specchietto_sx
+    400068: Stop
+    400070: Stop 1
+    400072: Targa_anteriore
+    400074: Targa_posteriore
+    400076: Tergi_cristalli
+    400078: Tergicristallo_dx
+    400080: Tergicristallo_sx
+    400082: Vetri_anteriori
+    2300000: Carrozzeria
+    2300002: Corpo_freccia
+    2300004: Corpo_freccia 1
+    2300006: Fari_anteriori
+    2300008: Faro
+    2300010: Faro 1
+    2300012: Freccia
+    2300014: Freccia 1
+    2300016: Freccia 2
+    2300018: Freccia_dx 1
+    2300020: Parafango_anteriore
+    2300022: Parafango_posteriore
+    2300024: Radiatore
+    2300026: Retro_radiatore
+    2300028: Rimorchio
+    2300030: Ruota_anteriore_dx
+    2300032: Ruota_anteriore_sx
+    2300034: Ruota_post_dx
+    2300036: Ruota_post_sx
+    2300038: Specchietto_dx
+    2300040: Specchietto_sx
+    2300042: Stop
+    2300044: Stop 1
+    2300046: Targa_anteriore
+    2300048: Targa_posteriore
+    2300050: Tergicristallo_dx
+    2300052: Tergicristallo_sx
+    2300054: Vetri_anteriori
+    3300000: Carrozzeria
+    3300002: Corpo_freccia
+    3300004: Corpo_freccia 1
+    3300006: Fari_anteriori
+    3300008: Faro
+    3300010: Faro 1
+    3300012: Freccia
+    3300014: Freccia 1
+    3300016: Freccia 2
+    3300018: Freccia_dx 1
+    3300020: Parafango_anteriore
+    3300022: Parafango_posteriore
+    3300024: Radiatore
+    3300026: Retro_radiatore
+    3300028: Rimorchio
+    3300030: Ruota_anteriore_dx
+    3300032: Ruota_anteriore_sx
+    3300034: Ruota_post_dx
+    3300036: Ruota_post_sx
+    3300038: Specchietto_dx
+    3300040: Specchietto_sx
+    3300042: Stop
+    3300044: Stop 1
+    3300046: Targa_anteriore
+    3300048: Targa_posteriore
+    3300050: Tergicristallo_dx
+    3300052: Tergicristallo_sx
+    3300054: Vetri_anteriori
+    4300000: Faro
+    4300002: Stop
+    4300004: Freccia
+    4300006: Faro
+    4300008: Stop
+    4300010: Freccia
+    4300012: Ruota_post_sx
+    4300014: Ruota_post_dx
+    4300016: Parafango_posteriore
+    4300018: Rimorchio
+    4300020: Targa_posteriore
+    4300022: Radiatore
+    4300024: Retro_radiatore
+    4300026: Vetri_anteriori
+    4300028: Carrozzeria
+    4300030: Fari_anteriori
+    4300032: Ruota_anteriore_dx
+    4300034: Ruota_anteriore_sx
+    4300036: Targa_anteriore
+    4300038: Specchietto_sx
+    4300040: Specchietto_dx
+    4300042: Corpo_freccia
+    4300044: Freccia
+    4300046: Corpo_freccia
+    4300048: Freccia_dx
+    4300050: Tergicristallo_dx
+    4300052: Tergicristallo_sx
+    4300054: Parafango_anteriore
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

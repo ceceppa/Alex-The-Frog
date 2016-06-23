@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 26a744e4a69244fa58079618d7993507
+timeCreated: 1462435303
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Control_main
+    100002: Corpo
+    100004: //RootNode
+    100006: Head
+    100008: joint5
+    100010: L_back_leg
+    100012: L_back_leg1
+    100014: L_back_leg2
+    100016: L_back_leg3
+    100018: L_front_leg
+    100020: L_front_leg 1
+    100022: L_front_leg2
+    100024: Occhi
+    100026: R_back_leg
+    100028: R_back_leg1
+    100030: R_back_leg2
+    100032: R_back_leg3
+    100034: R_front_leg
+    100036: R_front_leg 1
+    100038: R_front_leg2
+    100040: Rana
+    100042: Spine_back_arms
+    100044: Spine_ctrl
+    100046: Spine_front_arms
+    100048: Armature
+    100050: Camera
+    100052: joint5_end
+    100054: L_back_leg3_end
+    100056: L_front_leg.001
+    100058: L_front_leg.001_end
+    100060: Lamp
+    100062: R_back_leg3_end
+    100064: R_front_leg.001
+    100066: R_front_leg.001_end
+    400000: Control_main
+    400002: Corpo
+    400004: //RootNode
+    400006: Head
+    400008: joint5
+    400010: L_back_leg
+    400012: L_back_leg1
+    400014: L_back_leg2
+    400016: L_back_leg3
+    400018: L_front_leg
+    400020: L_front_leg 1
+    400022: L_front_leg2
+    400024: Occhi
+    400026: R_back_leg
+    400028: R_back_leg1
+    400030: R_back_leg2
+    400032: R_back_leg3
+    400034: R_front_leg
+    400036: R_front_leg 1
+    400038: R_front_leg2
+    400040: Rana
+    400042: Spine_back_arms
+    400044: Spine_ctrl
+    400046: Spine_front_arms
+    400048: Armature
+    400050: Camera
+    400052: joint5_end
+    400054: L_back_leg3_end
+    400056: L_front_leg.001
+    400058: L_front_leg.001_end
+    400060: Lamp
+    400062: R_back_leg3_end
+    400064: R_front_leg.001
+    400066: R_front_leg.001_end
+    2300000: Occhi
+    3300000: Occhi
+    4300000: Corpo
+    4300002: Occhi
+    7400000: Take 001
+    7400002: Control_main|Control_main|Take 001|BaseLayer
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Corpo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Control_main|Control_main|Take 001|BaseLayer
+      takeName: Control_main|Control_main|Take 001|BaseLayer
+      firstFrame: 0
+      lastFrame: 31
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Control_main
+        weight: 1
+      - path: Control_main/Armature
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_back_arms
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_back_arms/L_back_leg
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_back_arms/L_back_leg/L_back_leg1
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_back_arms/L_back_leg/L_back_leg1/L_back_leg2
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_back_arms/L_back_leg/L_back_leg1/L_back_leg2/L_back_leg3
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_back_arms/L_back_leg/L_back_leg1/L_back_leg2/L_back_leg3/L_back_leg3_end
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_back_arms/R_back_leg
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_back_arms/R_back_leg/R_back_leg1
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_back_arms/R_back_leg/R_back_leg1/R_back_leg2
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_back_arms/R_back_leg/R_back_leg1/R_back_leg2/R_back_leg3
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_back_arms/R_back_leg/R_back_leg1/R_back_leg2/R_back_leg3/R_back_leg3_end
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_front_arms
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_front_arms/Head
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_front_arms/Head/joint5
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_front_arms/Head/joint5/joint5_end
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_front_arms/L_front_leg
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_front_arms/L_front_leg/L_front_leg2
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_front_arms/L_front_leg/L_front_leg2/L_front_leg.001
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_front_arms/L_front_leg/L_front_leg2/L_front_leg.001/L_front_leg.001_end
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_front_arms/R_front_leg
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_front_arms/R_front_leg/R_front_leg2
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_front_arms/R_front_leg/R_front_leg2/R_front_leg.001
+        weight: 1
+      - path: Control_main/Armature/Spine_ctrl/Spine_front_arms/R_front_leg/R_front_leg2/R_front_leg.001/R_front_leg.001_end
+        weight: 1
+      - path: Corpo
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Rana
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

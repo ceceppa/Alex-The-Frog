@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 58398eafccc6840e6ad581d44c260e25
+timeCreated: 1448734315
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Alettone_posteriore
+    100002: //RootNode
+    100004: Carrozzeria
+    100006: Cerchione
+    100008: Cerchione 1
+    100010: Cerchione 2
+    100012: Cerchione 3
+    100014: Frecce
+    100016: Freccia_ant_dx
+    100018: Freccia_ant_sx
+    100020: Maniglia_dx
+    100022: Maniglia_sx
+    100024: Maniglie
+    100026: Parafango_posteriore
+    100028: Parte_anteriore
+    100030: Parte_posteriore
+    100032: Pneumatico
+    100034: Pneumatico 1
+    100036: Pneumatico 2
+    100038: Pneumatico 3
+    100040: Ruota_ant_dx
+    100042: Ruota_ant_sx
+    100044: Ruota_post_dx
+    100046: Ruota_post_sx
+    100048: Ruote_anteriori
+    100050: Ruote_posteriori
+    400000: Alettone_posteriore
+    400002: //RootNode
+    400004: Carrozzeria
+    400006: Cerchione
+    400008: Cerchione 1
+    400010: Cerchione 2
+    400012: Cerchione 3
+    400014: Frecce
+    400016: Freccia_ant_dx
+    400018: Freccia_ant_sx
+    400020: Maniglia_dx
+    400022: Maniglia_sx
+    400024: Maniglie
+    400026: Parafango_posteriore
+    400028: Parte_anteriore
+    400030: Parte_posteriore
+    400032: Pneumatico
+    400034: Pneumatico 1
+    400036: Pneumatico 2
+    400038: Pneumatico 3
+    400040: Ruota_ant_dx
+    400042: Ruota_ant_sx
+    400044: Ruota_post_dx
+    400046: Ruota_post_sx
+    400048: Ruote_anteriori
+    400050: Ruote_posteriori
+    2300000: Alettone_posteriore
+    2300002: Carrozzeria
+    2300004: Cerchione
+    2300006: Cerchione 1
+    2300008: Cerchione 2
+    2300010: Cerchione 3
+    2300012: Freccia_ant_dx
+    2300014: Freccia_ant_sx
+    2300016: Maniglia_dx
+    2300018: Maniglia_sx
+    2300020: Parafango_posteriore
+    2300022: Pneumatico
+    2300024: Pneumatico 1
+    2300026: Pneumatico 2
+    2300028: Pneumatico 3
+    3300000: Alettone_posteriore
+    3300002: Carrozzeria
+    3300004: Cerchione
+    3300006: Cerchione 1
+    3300008: Cerchione 2
+    3300010: Cerchione 3
+    3300012: Freccia_ant_dx
+    3300014: Freccia_ant_sx
+    3300016: Maniglia_dx
+    3300018: Maniglia_sx
+    3300020: Parafango_posteriore
+    3300022: Pneumatico
+    3300024: Pneumatico 1
+    3300026: Pneumatico 2
+    3300028: Pneumatico 3
+    4300000: Alettone_posteriore
+    4300002: Parafango_posteriore
+    4300004: Freccia_ant_dx
+    4300006: Freccia_ant_sx
+    4300008: Maniglia_dx
+    4300010: Maniglia_sx
+    4300012: Pneumatico
+    4300014: Cerchione
+    4300016: Pneumatico
+    4300018: Cerchione
+    4300020: Carrozzeria
+    4300022: Pneumatico
+    4300024: Cerchione
+    4300026: Pneumatico
+    4300028: Cerchione
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

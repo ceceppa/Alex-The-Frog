@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: fe5e2f704401c4d369a7aaad1d9ba7e7
+timeCreated: 1462914261
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Control_main
+    100002: Corpo
+    100004: Head
+    100006: joint5
+    100008: L_back_leg
+    100010: L_back_leg1
+    100012: L_back_leg2
+    100014: L_back_leg3
+    100016: L_front_leg
+    100018: L_front_leg 1
+    100020: L_front_leg2
+    100022: Occhi
+    100024: R_back_leg
+    100026: R_back_leg1
+    100028: R_back_leg2
+    100030: R_back_leg3
+    100032: R_front_leg
+    100034: R_front_leg 1
+    100036: R_front_leg2
+    100038: Rana
+    100040: //RootNode
+    100042: Spine_back_arms
+    100044: Spine_ctrl
+    100046: Spine_front_arms
+    400000: Control_main
+    400002: Corpo
+    400004: Head
+    400006: joint5
+    400008: L_back_leg
+    400010: L_back_leg1
+    400012: L_back_leg2
+    400014: L_back_leg3
+    400016: L_front_leg
+    400018: L_front_leg 1
+    400020: L_front_leg2
+    400022: Occhi
+    400024: R_back_leg
+    400026: R_back_leg1
+    400028: R_back_leg2
+    400030: R_back_leg3
+    400032: R_front_leg
+    400034: R_front_leg 1
+    400036: R_front_leg2
+    400038: Rana
+    400040: //RootNode
+    400042: Spine_back_arms
+    400044: Spine_ctrl
+    400046: Spine_front_arms
+    2300000: Occhi
+    3300000: Occhi
+    4300000: Corpo
+    4300002: Occhi
+    7400000: Take 001
+    7400002: Take 001 //// Control_main
+    9500000: //RootNode
+    11100000: //RootNode
+    11100002: Control_main
+    11100004: Corpo
+    11100006: Head
+    11100008: joint5
+    11100010: L_back_leg
+    11100012: L_back_leg1
+    11100014: L_back_leg2
+    11100016: L_back_leg3
+    11100018: L_front_leg
+    11100020: L_front_leg 1
+    11100022: L_front_leg2
+    11100024: Occhi
+    11100026: R_back_leg
+    11100028: R_back_leg1
+    11100030: R_back_leg2
+    11100032: R_back_leg3
+    11100034: R_front_leg
+    11100036: R_front_leg 1
+    11100038: R_front_leg2
+    11100040: Rana
+    11100042: Spine_back_arms
+    11100044: Spine_ctrl
+    11100046: Spine_front_arms
+    13700000: Corpo
+    13700002: Spine_ctrl
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Control_main
+        weight: 1
+      - path: Control_main/Spine_ctrl
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_back_arms
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_back_arms/L_back_leg
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_back_arms/L_back_leg/L_back_leg1
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_back_arms/L_back_leg/L_back_leg1/L_back_leg2
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_back_arms/L_back_leg/L_back_leg1/L_back_leg2/L_back_leg3
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_back_arms/R_back_leg
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_back_arms/R_back_leg/R_back_leg1
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_back_arms/R_back_leg/R_back_leg1/R_back_leg2
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_back_arms/R_back_leg/R_back_leg1/R_back_leg2/R_back_leg3
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_front_arms
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_front_arms/Head
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_front_arms/Head/joint5
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_front_arms/Head/Occhi
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_front_arms/L_front_leg
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_front_arms/L_front_leg/L_front_leg2
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_front_arms/L_front_leg/L_front_leg2/L_front_leg
+          1
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_front_arms/R_front_leg
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_front_arms/R_front_leg/R_front_leg2
+        weight: 1
+      - path: Control_main/Spine_ctrl/Spine_front_arms/R_front_leg/R_front_leg2/R_front_leg
+          1
+        weight: 1
+      - path: Rana
+        weight: 1
+      - path: Rana/Corpo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Rana
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

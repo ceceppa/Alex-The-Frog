@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: fd226dc5df05d43e9986db57b6f6d9ce
+timeCreated: 1450023019
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Carrozzeria_auto
+    100004: Cofano_anteriore
+    100006: Copriruota_anteriori
+    100008: Fari_anteriori
+    100010: Fari_anteriori.001
+    100012: Fari_posteriori
+    100014: Frecce_anteriori
+    100016: Frecce_posteriori
+    100018: //RootNode
+    100020: Lamp
+    100022: Maniglie
+    100024: Parafango_anteriore
+    100026: Parte_anteriore
+    100028: Parte_posteriore
+    100030: Radiatore
+    100032: Radiatore_anteriore
+    100034: Ruota_ant_dx
+    100036: Ruota_ant_sx
+    100038: Ruota_ant_sx1
+    100040: Ruota_post_dx
+    100042: Ruota_post_sx
+    100044: Ruote_anteriori
+    100046: Ruote_posteriori
+    100048: Specchietto
+    100050: Stop_posteriori
+    400000: Camera
+    400002: Carrozzeria_auto
+    400004: Cofano_anteriore
+    400006: Copriruota_anteriori
+    400008: Fari_anteriori
+    400010: Fari_anteriori.001
+    400012: Fari_posteriori
+    400014: Frecce_anteriori
+    400016: Frecce_posteriori
+    400018: //RootNode
+    400020: Lamp
+    400022: Maniglie
+    400024: Parafango_anteriore
+    400026: Parte_anteriore
+    400028: Parte_posteriore
+    400030: Radiatore
+    400032: Radiatore_anteriore
+    400034: Ruota_ant_dx
+    400036: Ruota_ant_sx
+    400038: Ruota_ant_sx1
+    400040: Ruota_post_dx
+    400042: Ruota_post_sx
+    400044: Ruote_anteriori
+    400046: Ruote_posteriori
+    400048: Specchietto
+    400050: Stop_posteriori
+    2300000: Carrozzeria_auto
+    2300002: Cofano_anteriore
+    2300004: Copriruota_anteriori
+    2300006: Fari_anteriori.001
+    2300008: Frecce_anteriori
+    2300010: Frecce_posteriori
+    2300012: Maniglie
+    2300014: Parafango_anteriore
+    2300016: Radiatore
+    2300018: Radiatore_anteriore
+    2300020: Ruota_ant_dx
+    2300022: Ruota_ant_sx
+    2300024: Ruota_ant_sx1
+    2300026: Ruota_post_dx
+    2300028: Ruota_post_sx
+    2300030: Specchietto
+    2300032: Stop_posteriori
+    3300000: Carrozzeria_auto
+    3300002: Cofano_anteriore
+    3300004: Copriruota_anteriori
+    3300006: Fari_anteriori.001
+    3300008: Frecce_anteriori
+    3300010: Frecce_posteriori
+    3300012: Maniglie
+    3300014: Parafango_anteriore
+    3300016: Radiatore
+    3300018: Radiatore_anteriore
+    3300020: Ruota_ant_dx
+    3300022: Ruota_ant_sx
+    3300024: Ruota_ant_sx1
+    3300026: Ruota_post_dx
+    3300028: Ruota_post_sx
+    3300030: Specchietto
+    3300032: Stop_posteriori
+    4300000: Carrozzeria_auto
+    4300002: Frecce_anteriori
+    4300004: Fari_anteriori.001
+    4300006: Ruota_ant_sx1
+    4300008: Ruota_ant_dx
+    4300010: Ruota_ant_sx
+    4300012: Maniglie
+    4300014: Radiatore
+    4300016: Parafango_anteriore
+    4300018: Radiatore_anteriore
+    4300020: Cofano_anteriore
+    4300022: Copriruota_anteriori
+    4300024: Specchietto
+    4300026: Ruota_post_dx
+    4300028: Ruota_post_sx
+    4300030: Frecce_posteriori
+    4300032: Stop_posteriori
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

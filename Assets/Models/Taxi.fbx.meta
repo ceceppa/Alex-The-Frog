@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 0dcf2550f80d14380bd8c8aee18bf9f0
+timeCreated: 1448734314
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Carrozzeria
+    100002: Fari_anteriori
+    100004: Fari_post
+    100006: Faro_dx
+    100008: Faro_sx
+    100010: Frecce_anteriori
+    100012: Maniglie
+    100014: Parafango_anteriore
+    100016: Parafango_posteriore
+    100018: Parte_anteriore
+    100020: Parte_posteriore
+    100022: Radiatore
+    100024: Ruota_ant_dx
+    100026: Ruota_ant_sx
+    100028: Ruota_post_dx
+    100030: Ruota_post_sx
+    100032: Ruote_anteriori
+    100034: Ruote_posteriori
+    100036: Scritta_taxxi
+    100038: Tabella_superiore
+    100040: Tabella_taxi
+    100042: //RootNode
+    400000: Carrozzeria
+    400002: Fari_anteriori
+    400004: Fari_post
+    400006: Faro_dx
+    400008: Faro_sx
+    400010: Frecce_anteriori
+    400012: Maniglie
+    400014: Parafango_anteriore
+    400016: Parafango_posteriore
+    400018: Parte_anteriore
+    400020: Parte_posteriore
+    400022: Radiatore
+    400024: Ruota_ant_dx
+    400026: Ruota_ant_sx
+    400028: Ruota_post_dx
+    400030: Ruota_post_sx
+    400032: Ruote_anteriori
+    400034: Ruote_posteriori
+    400036: Scritta_taxxi
+    400038: Tabella_superiore
+    400040: Tabella_taxi
+    400042: //RootNode
+    2300000: Carrozzeria
+    2300002: Fari_post
+    2300004: Faro_dx
+    2300006: Faro_sx
+    2300008: Frecce_anteriori
+    2300010: Maniglie
+    2300012: Parafango_anteriore
+    2300014: Parafango_posteriore
+    2300016: Radiatore
+    2300018: Ruota_ant_dx
+    2300020: Ruota_ant_sx
+    2300022: Ruota_post_dx
+    2300024: Ruota_post_sx
+    2300026: Scritta_taxxi
+    2300028: Tabella_taxi
+    3300000: Carrozzeria
+    3300002: Fari_post
+    3300004: Faro_dx
+    3300006: Faro_sx
+    3300008: Frecce_anteriori
+    3300010: Maniglie
+    3300012: Parafango_anteriore
+    3300014: Parafango_posteriore
+    3300016: Radiatore
+    3300018: Ruota_ant_dx
+    3300020: Ruota_ant_sx
+    3300022: Ruota_post_dx
+    3300024: Ruota_post_sx
+    3300026: Scritta_taxxi
+    3300028: Tabella_taxi
+    4300000: Carrozzeria
+    4300002: Faro_dx
+    4300004: Faro_sx
+    4300006: Radiatore
+    4300008: Ruota_ant_sx
+    4300010: Ruota_ant_dx
+    4300012: Parafango_anteriore
+    4300014: Frecce_anteriori
+    4300016: Tabella_taxi
+    4300018: Scritta_taxxi
+    4300020: Maniglie
+    4300022: Fari_post
+    4300024: Parafango_posteriore
+    4300026: Ruota_post_sx
+    4300028: Ruota_post_dx
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

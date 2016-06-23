@@ -5,6 +5,9 @@ Textures created with Krita and Inkscape.
 
 Demo available [here](alessandrosenese.eu/unity/atf)
 
+![ALEX THE FROG screenshot](dist/screenshot1.jpg)
+
+
 ## Copyright and License
 
 ATF is released under GPL version 3 or later.
