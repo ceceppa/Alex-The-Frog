@@ -3,7 +3,7 @@
 Frogger inspired game, build using Unity 3d (5.4.0) with C# scripting, on Kubuntu.
 Textures created with Krita and Inkscape.
 
-Demo available [here](alessandrosenese.eu/unity/atf)
+Demo available [here](http://alessandrosenese.eu/unity/atf)
 
 ![ALEX THE FROG screenshot](dist/screenshot1.png)
 
