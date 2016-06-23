@@ -5,7 +5,7 @@ Textures created with Krita and Inkscape.
 
 Demo available [here](alessandrosenese.eu/unity/atf)
 
-![ALEX THE FROG screenshot](dist/screenshot1.jpg)
+![ALEX THE FROG screenshot](dist/screenshot1.png)
 
 
 ## Copyright and License
