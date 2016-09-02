@@ -3,7 +3,7 @@
 Frogger inspired game, build using Unity 3d (5.4.0) with C# scripting, on Kubuntu.
 Textures created with Krita and Inkscape.
 
-Demo available [here](http://alessandrosenese.eu/unity/atf)
+Demo available [here](https://ceceppa.github.io/unity/atf/)
 
 ![ALEX THE FROG screenshot](dist/screenshot1.png)
 
@@ -16,7 +16,7 @@ All of ATF's art and data files are released under CC-BY-SA 3.0. Later versions 
 
 ## Credits
 
-Coded by [Alessandro Senese](alessandrosenese.eu) aka Ceceppa
+Coded by [Alessandro Senese](http://alessandrosenese.eu) aka Ceceppa
 
 Models by Stefano Senese
 
